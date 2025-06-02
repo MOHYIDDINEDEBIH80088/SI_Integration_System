@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZ/+xwNHGPw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc Plus\\source\\repos\\Project_RabbitMq_Desktop_Stream\\Project_RabbitMq_Desktop\\Production_Data_Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc Plus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pc Plus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pc Plus\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\Pc Plus\\.nuget\\packages\\rabbitmq.stream.client\\1.8.13\\rabbitmq.stream.client.1.8.13.nupkg.sha512",
+    "C:\\Users\\Pc Plus\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pc Plus\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
