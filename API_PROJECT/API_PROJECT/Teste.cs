@@ -13,7 +13,7 @@ namespace API_PROJECT
         int ID_Produto,
        string Codigo_Resultado, DateTime Data_Teste)
         {
-           // cmd.Parameters.Add("@ID_Teste", System.Data.SqlDbType.VarChar).Value = ID_Teste;
+           
             cmd.Parameters.Add("@ID_Produto", System.Data.SqlDbType.Int).Value = ID_Produto;
             cmd.Parameters.Add("@Codigo_Resultado", System.Data.SqlDbType.VarChar).Value = Codigo_Resultado;
             cmd.Parameters.Add("@Data_Teste", System.Data.SqlDbType.Date).Value = Data_Teste;
