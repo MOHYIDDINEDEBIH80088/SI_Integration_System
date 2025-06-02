@@ -1,0 +1,8 @@
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\bin\Debug\Client_WS_SOAP_HelloWorld.exe.config
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\bin\Debug\Client_WS_SOAP_HelloWorld.exe
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\bin\Debug\Client_WS_SOAP_HelloWorld.pdb
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\obj\Debug\Client_WS_SOAP_Desktop_API.csproj.AssemblyReference.cache
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\obj\Debug\Client_WS_SOAP_HelloWorld.exe.config
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\obj\Debug\Client_WS_SOAP_Desktop_API.csproj.CoreCompileInputs.cache
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\obj\Debug\Client_WS_SOAP_HelloWorld.exe
+C:\Users\Pc Plus\source\repos\Client_WS_SOAP_HelloWorld\Client_WS_SOAP_HelloWorld\obj\Debug\Client_WS_SOAP_HelloWorld.pdb
